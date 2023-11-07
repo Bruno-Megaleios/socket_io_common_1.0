@@ -13,8 +13,8 @@
 import 'dart:convert';
 import 'dart:typed_data';
 import 'package:logging/logging.dart';
-import 'package:socket_io_common/socket_io_common.dart';
-import 'package:socket_io_common/src/util/event_emitter.dart';
+import 'package:socket_io_common_1_0/socket_io_common.dart';
+import 'package:socket_io_common_1_0/src/util/event_emitter.dart';
 
 const int CONNECT = 0;
 const int DISCONNECT = 1;

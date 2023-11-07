@@ -15,7 +15,7 @@ import 'dart:async';
 import 'dart:convert';
 import 'dart:typed_data';
 
-import 'package:socket_io_common/src/engine/parser/wtf8.dart';
+import 'package:socket_io_common_1_0/src/engine/parser/wtf8.dart';
 
 // Protocol version
 final protocol = 3;
